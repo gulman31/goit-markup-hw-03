@@ -137,3 +137,13 @@ span {
   display: flex;
   gap: 40px;
 }
+.section-two {
+  padding: 120px;
+}
+.list-section-two {
+  display: flex;
+  gap: 24px;
+}
+.section-two-item {
+  width: calc((100%-72px) / 4);
+}
