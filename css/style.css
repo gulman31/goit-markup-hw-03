@@ -11,7 +11,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  margin-right: 75px;
+  margin-right: 76px;
 }
 span {
   color: #2e2f42;
@@ -24,6 +24,7 @@ span {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  padding: 24px 0;
 }
 .links-nav:hover {
   color: #404bbf;
@@ -120,4 +121,12 @@ span {
 .link-container {
   display: flex;
   align-items: center;
+}
+.menu {
+  display: flex;
+  gap: 40px;
+}
+.list-address {
+  display: flex;
+  gap: 40px;
 }
