@@ -90,6 +90,7 @@ span {
 }
 .section-three {
   background-color: #f4f4fd;
+  margin-bottom: 8px;
 }
 .headline-two {
   font-size: 36px;
@@ -104,6 +105,7 @@ span {
 }
 .footer {
   background-color: #2e2f42;
+  padding: 100px 0;
 }
 .span-footer {
   color: #f4f4fd;
@@ -112,6 +114,7 @@ span {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
+  max-width: 264px;
 }
 .top-bottom {
   border-bottom: 1px solid #e7e9fc;
@@ -138,12 +141,12 @@ span {
   gap: 40px;
 }
 .section-two {
-  padding: 120px;
+  padding: 120px 0;
 }
 .list-section-two {
   display: flex;
   gap: 24px;
 }
 .section-two-item {
-  width: calc((100%-72px) / 4);
+  width: calc((100% - 72px) / 4);
 }
