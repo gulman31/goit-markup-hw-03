@@ -93,6 +93,7 @@ span {
 .section-three {
   background-color: #f4f4fd;
   margin-bottom: 8px;
+  padding: 120px 0;
 }
 .headline-two {
   font-size: 36px;
@@ -101,6 +102,7 @@ span {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  margin-bottom: 72px;
 }
 .image-list-item {
   background-color: #ffffff;
