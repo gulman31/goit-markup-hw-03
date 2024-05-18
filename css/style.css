@@ -11,6 +11,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  margin-right: 75px;
 }
 span {
   color: #2e2f42;
@@ -106,4 +107,17 @@ span {
 }
 .top-bottom {
   border-bottom: 1px solid #e7e9fc;
+}
+.container-one {
+  display: flex;
+}
+.container {
+  width: 1158px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.link-container {
+  display: flex;
+  align-items: center;
 }
