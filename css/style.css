@@ -141,7 +141,7 @@ span {
   display: flex;
   align-items: center;
 }
-.menu {
+menu {
   display: flex;
   gap: 40px;
 }
